@@ -1,6 +1,1 @@
-# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
-PassengerAppRoot "/home/pachecoy/ochat"
-PassengerBaseURI "/"
-PassengerPython "/home/pachecoy/virtualenv/ochat/3.6/bin/python"
-PassengerAppLogFile "/home/pachecoy/ochat/ochat.log"
-# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+
